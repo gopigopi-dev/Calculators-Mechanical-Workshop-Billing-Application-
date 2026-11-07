@@ -1,0 +1,6 @@
+{
+  "name": "Calculators",
+  "description": "Mechanical Machine Parts Calibration Management application with Tamil and English voice and text entry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
